@@ -1,4 +1,4 @@
-FROM budtmo/docker-android-x86-11.0:latest
+FROM budtmo/docker-android:emulator_11.0
 
 ENV DEVICE="Samsung Galaxy S10" \
     VNC_PASSWORD="2010" \
